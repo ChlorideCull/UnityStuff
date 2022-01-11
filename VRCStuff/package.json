@@ -1,0 +1,9 @@
+{
+	"name": "se.chcl.unity.vrcstuff",
+	"displayName": "CHCL VRC Stuff",
+	"version": "1.0.0",
+	"dependencies": {
+		"se.chcl.unity.furniturepack": "1.0.0"
+	},
+	"hideInEditor": false
+}
